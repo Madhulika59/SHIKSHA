@@ -1,0 +1,1846 @@
+{
+  "intents": [
+    {
+      "intent": "COVID_School_shutdown",
+      "examples": [
+        {
+          "text": "Which schools are closed?"
+        },
+        {
+          "text": "when can my kid go back to high school"
+        },
+        {
+          "text": "when can my kid go back school"
+        },
+        {
+          "text": "when can my high school senior go back to school"
+        },
+        {
+          "text": "ARE COLLEGES OPEN"
+        },
+        {
+          "text": "Are my children's schools closed?"
+        },
+        {
+          "text": "When can I return to school?"
+        },
+        {
+          "text": "what schools are closed"
+        },
+        {
+          "text": "What happens after the ordered three-week closure period ends?"
+        },
+        {
+          "text": "What does the ordered school closure mean for report cards?"
+        },
+        {
+          "text": "Should my child stay home from school?"
+        },
+        {
+          "text": "is the school closed"
+        },
+        {
+          "text": "Is my school closed?"
+        },
+        {
+          "text": "is my school closed"
+        },
+        {
+          "text": "Is my kids school closed?"
+        },
+        {
+          "text": "is my kids school closed"
+        },
+        {
+          "text": "Is HS 123 open?"
+        },
+        {
+          "text": "Is graduation delayed?"
+        },
+        {
+          "text": "I live in 78709. when will my kids high school reopen?"
+        },
+        {
+          "text": "How will the shutdown impact my child's attendance records?"
+        },
+        {
+          "text": "How can I get the latest news on my school closure?"
+        },
+        {
+          "text": "can my kids return to high school"
+        },
+        {
+          "text": "Can my child go to school?"
+        },
+        {
+          "text": "Are schools shut down?"
+        },
+        {
+          "text": "Are schools open?"
+        },
+        {
+          "text": "Are my schools closed"
+        },
+        {
+          "text": "are my schools closed?"
+        },
+        {
+          "text": "are schools closed"
+        },
+        {
+          "text": "are schools closed ?"
+        },
+        {
+          "text": "Will there be school in the summer?"
+        },
+        {
+          "text": "Will there be exams in the summer?"
+        },
+        {
+          "text": "Will students still graduate this year?"
+        },
+        {
+          "text": "when can i send my kids back to school"
+        },
+        {
+          "text": "when can kid go back to school"
+        },
+        {
+          "text": "when can kids return to school"
+        },
+        {
+          "text": "Will graduations be pushed back?"
+        },
+        {
+          "text": "Will classes be moved to summer?"
+        },
+        {
+          "text": "are schools open"
+        },
+        {
+          "text": "are schools in my area closed"
+        },
+        {
+          "text": "are schools closed?"
+        },
+        {
+          "text": "are schools closed in my area"
+        },
+        {
+          "text": "When can my kid go back to college"
+        },
+        {
+          "text": "when can my kid go back to school"
+        },
+        {
+          "text": "when can my kids back school"
+        },
+        {
+          "text": "when can my kids go back to college?"
+        },
+        {
+          "text": "when can my kids go back to high school in 78712"
+        },
+        {
+          "text": "when can my kids go back to school"
+        },
+        {
+          "text": "when do the children go back to school"
+        },
+        {
+          "text": "When does covid vacation end?"
+        },
+        {
+          "text": "When is school back in session?"
+        },
+        {
+          "text": "When will my good go back to school?"
+        },
+        {
+          "text": "When will my kids be back in school?"
+        },
+        {
+          "text": "when will my kids school reopen"
+        },
+        {
+          "text": "When will schools close?"
+        },
+        {
+          "text": "When will the schools open?"
+        },
+        {
+          "text": "where can my kids go back to school"
+        }
+      ],
+      "description": "Information on school shutdowns."
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "Yes, take me to a real person"
+        },
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "A real agent, please."
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "academics",
+      "examples": [
+        {
+          "text": "what is the best book for electrical Machines?"
+        }
+      ],
+      "description": "electrical machines"
+    },
+    {
+      "intent": "highereducation",
+      "examples": [
+        {
+          "text": "how to apply for PHD in IITs in INDIA"
+        }
+      ],
+      "description": "applying for higher studies"
+    },
+    {
+      "intent": "download",
+      "examples": [
+        {
+          "text": "download previous question papers of RRB"
+        }
+      ],
+      "description": "free downloading of books,journals,previous question papers,syllabus,notification"
+    },
+    {
+      "intent": "Bot_Control_Change_Subject",
+      "examples": [
+        {
+          "text": "A different matter"
+        },
+        {
+          "text": "Another thing"
+        },
+        {
+          "text": "Can we talk about something else?"
+        },
+        {
+          "text": "Change topic"
+        },
+        {
+          "text": "Chat about something else"
+        },
+        {
+          "text": "Help me with this other question"
+        },
+        {
+          "text": "Here is another issue"
+        },
+        {
+          "text": "I have one more question"
+        },
+        {
+          "text": "Let us talk about something else"
+        },
+        {
+          "text": "Let us change the topic"
+        },
+        {
+          "text": "Talk about something else"
+        },
+        {
+          "text": "Discuss something else"
+        }
+      ],
+      "description": "Change to a different topic."
+    },
+    {
+      "intent": "Bot_Control_Start_Over",
+      "examples": [
+        {
+          "text": "Can we please start over?"
+        },
+        {
+          "text": "How can I start over?"
+        },
+        {
+          "text": "We will need to begin again"
+        },
+        {
+          "text": "We need a do-over"
+        },
+        {
+          "text": "Start over"
+        },
+        {
+          "text": "Restart"
+        },
+        {
+          "text": "Please start a new chat"
+        },
+        {
+          "text": "Please reset"
+        },
+        {
+          "text": "Please initiate from the beginning"
+        },
+        {
+          "text": "One more time from the beginning"
+        },
+        {
+          "text": "Let's pick this up from the top again."
+        },
+        {
+          "text": "Let's go back to square one"
+        },
+        {
+          "text": "Let us reopen this again."
+        },
+        {
+          "text": "I would like to start all over"
+        },
+        {
+          "text": "I want start from the beginning"
+        },
+        {
+          "text": "I need to reset."
+        },
+        {
+          "text": "Actually, let's start over"
+        },
+        {
+          "text": "Back to the beginning"
+        },
+        {
+          "text": "Back to the top"
+        },
+        {
+          "text": "Begin over!"
+        }
+      ],
+      "description": "Restart bot or current flow."
+    },
+    {
+      "intent": "researchpapers",
+      "examples": [
+        {
+          "text": "what are the different websites for downloading research papers?"
+        }
+      ],
+      "description": " websites for downloading research papers"
+    },
+    {
+      "intent": "Bot_Control_Ignore_Undo",
+      "examples": [
+        {
+          "text": "Cancel"
+        },
+        {
+          "text": "Actually, I take that back"
+        },
+        {
+          "text": "Hold on! I think I want to do it differently."
+        },
+        {
+          "text": "I change my mind."
+        },
+        {
+          "text": "I did not mean that?"
+        },
+        {
+          "text": "I didn't mean to do that actually, let's go back"
+        },
+        {
+          "text": "Ignore this"
+        },
+        {
+          "text": "It's not what I mean"
+        },
+        {
+          "text": "Let us redo that again!"
+        },
+        {
+          "text": "Never mind"
+        },
+        {
+          "text": "Never"
+        },
+        {
+          "text": "Not yet"
+        },
+        {
+          "text": "Nothing"
+        },
+        {
+          "text": "Wait! Let's back up few steps and do that again"
+        }
+      ],
+      "description": "Ask the bot to take one step back."
+    },
+    {
+      "intent": "Bot_Control_Standby",
+      "examples": [
+        {
+          "text": "Give me a moment"
+        },
+        {
+          "text": "Give me a few minutes to get together"
+        },
+        {
+          "text": "Can you wait for me?"
+        },
+        {
+          "text": "Can you give me a moment?"
+        },
+        {
+          "text": "Be patient with me"
+        },
+        {
+          "text": "Be back later"
+        },
+        {
+          "text": "Back again soon"
+        },
+        {
+          "text": "Wait"
+        },
+        {
+          "text": "Out for a break"
+        },
+        {
+          "text": "Need a minute here"
+        },
+        {
+          "text": "Let me see"
+        },
+        {
+          "text": "Keep holding"
+        },
+        {
+          "text": "Just hold on"
+        },
+        {
+          "text": "Just a sec"
+        },
+        {
+          "text": "In a moment"
+        },
+        {
+          "text": "I would like to put you on hold"
+        },
+        {
+          "text": "I will be back"
+        },
+        {
+          "text": "I want stop a moment"
+        },
+        {
+          "text": "Hold on"
+        },
+        {
+          "text": "Give me a second"
+        }
+      ],
+      "description": "Indicate a delay in providing input to the bot."
+    },
+    {
+      "intent": "abroad",
+      "examples": [
+        {
+          "text": "what is the process of applying MS in abroad?"
+        }
+      ],
+      "description": "higher education in abroad"
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "You've been so helpful :)"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "You are the best"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "You there"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "Bot_Control_Approve_Response",
+      "examples": [
+        {
+          "text": "Sure thing!"
+        },
+        {
+          "text": "Indeed!"
+        },
+        {
+          "text": "I like that"
+        },
+        {
+          "text": "I agree"
+        },
+        {
+          "text": "Great"
+        },
+        {
+          "text": "Got it"
+        },
+        {
+          "text": "For sure!"
+        },
+        {
+          "text": "Correct"
+        },
+        {
+          "text": "All right"
+        },
+        {
+          "text": "Affirmative. That's what I'm looking for."
+        },
+        {
+          "text": "That is precisely what I was looking for"
+        },
+        {
+          "text": "That is right"
+        },
+        {
+          "text": "That is the proper response."
+        },
+        {
+          "text": "That is what I need"
+        },
+        {
+          "text": "That's exactly what I want"
+        },
+        {
+          "text": "This is alright"
+        },
+        {
+          "text": "Very well. Let's do it."
+        },
+        {
+          "text": "Yeah, that's it!"
+        },
+        {
+          "text": "Yes"
+        },
+        {
+          "text": "You read my mind"
+        },
+        {
+          "text": "Sweet"
+        }
+      ],
+      "description": "Acknowledge that the response satisfies a question."
+    },
+    {
+      "intent": "Bot_Control_Clarification",
+      "examples": [
+        {
+          "text": "I didn't catch that"
+        },
+        {
+          "text": "Can you say that again please?"
+        },
+        {
+          "text": "Come again?"
+        },
+        {
+          "text": "What do you mean?"
+        },
+        {
+          "text": "What do you mean by that?"
+        },
+        {
+          "text": "What are you talking about?"
+        },
+        {
+          "text": "What are you saying?"
+        },
+        {
+          "text": "What are you referring to?"
+        },
+        {
+          "text": "Let's try to say that again more clearly, shall we?"
+        },
+        {
+          "text": "I need more information"
+        },
+        {
+          "text": "I don't understand"
+        },
+        {
+          "text": "I don't understand what you're saying"
+        },
+        {
+          "text": "I don't get it"
+        },
+        {
+          "text": "Explains"
+        },
+        {
+          "text": "I didn't understand that properly"
+        },
+        {
+          "text": "I didn't quite understand what you said"
+        },
+        {
+          "text": "I did not quite understand what you gave me"
+        }
+      ],
+      "description": "Repeat or clarify last statement."
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "Why are you here?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "What languages do you speak?"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "Do you have a name?"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "About you"
+        },
+        {
+          "text": "How can I configure you?"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    },
+    {
+      "intent": "Bot_Control_Confirm_Presence",
+      "examples": [
+        {
+          "text": "Is anybody home?"
+        },
+        {
+          "text": "Did you go somewhere?"
+        },
+        {
+          "text": "Is anybody here?"
+        },
+        {
+          "text": "Am I talking to someone?"
+        },
+        {
+          "text": "Anyone there?"
+        },
+        {
+          "text": "Are you leaving me?"
+        },
+        {
+          "text": "Are you on?"
+        },
+        {
+          "text": "Are you still around?"
+        },
+        {
+          "text": "Are you still here with me?"
+        },
+        {
+          "text": "Are you there?"
+        },
+        {
+          "text": "Where'd you go?"
+        },
+        {
+          "text": "Speak to me if you are there."
+        },
+        {
+          "text": "You around?"
+        },
+        {
+          "text": "I am still holding"
+        },
+        {
+          "text": "Have I lost you?"
+        },
+        {
+          "text": "Did you hear what I said?"
+        }
+      ],
+      "description": "Ask the bot to indicate that it is available."
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Time to go"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "COVID_Unemployment_Application",
+      "examples": [
+        {
+          "text": "what can I do if I lose my job?"
+        },
+        {
+          "text": "apply for unemployment"
+        },
+        {
+          "text": "How am I gonna pay my bills if I don't have a job anymore?"
+        },
+        {
+          "text": "how can i apply for unemployment during this outbreak?"
+        },
+        {
+          "text": "how can I apply for unemployment?"
+        },
+        {
+          "text": "how do I apply for unemployment"
+        },
+        {
+          "text": "how do I apply for unemployment because of covid-19"
+        },
+        {
+          "text": "where can I apply for unemployment"
+        },
+        {
+          "text": "What if I got furloughed?"
+        },
+        {
+          "text": "i can't go to work.  can i get unemployment?"
+        },
+        {
+          "text": "What happens if I lose my job?"
+        },
+        {
+          "text": "What do I do if I don't have unemployment insurance?"
+        },
+        {
+          "text": "how do I apply for unemployment benefits due to Covid-19?"
+        },
+        {
+          "text": "how do I apply for unemployment benefits?"
+        },
+        {
+          "text": "how long can I get unemployment?"
+        },
+        {
+          "text": "I just got laid off, now what?"
+        },
+        {
+          "text": "I have a question about unemployment"
+        },
+        {
+          "text": "how long does it take to get unemployment"
+        },
+        {
+          "text": "how to apply for unemployment"
+        },
+        {
+          "text": "how to I apply for unemployment"
+        },
+        {
+          "text": "i need to apply for unemployment.  how do I do it"
+        },
+        {
+          "text": "If I got furloughed, do I qualify for unemployment?"
+        },
+        {
+          "text": "what can I do if I lose my job"
+        }
+      ],
+      "description": "How to apply for unemployment."
+    },
+    {
+      "intent": "Bot_Control_Reject_Response",
+      "examples": [
+        {
+          "text": "No"
+        },
+        {
+          "text": "You're misunderstanding me"
+        },
+        {
+          "text": "You didn't understand me"
+        },
+        {
+          "text": "You did not understand what I said"
+        },
+        {
+          "text": "You did not understand what I asked"
+        },
+        {
+          "text": "Wrong response"
+        },
+        {
+          "text": "That was wrong, try again"
+        },
+        {
+          "text": "That was not my intent"
+        },
+        {
+          "text": "That sounds like the wrong response"
+        },
+        {
+          "text": "That is not true"
+        },
+        {
+          "text": "That answer is incorrect"
+        },
+        {
+          "text": "Not the right response"
+        },
+        {
+          "text": "No I'm fine thanks"
+        },
+        {
+          "text": "It is not what I was looking for"
+        },
+        {
+          "text": "It is not what I want"
+        },
+        {
+          "text": "I wasn't looking for that"
+        },
+        {
+          "text": "I don't want that"
+        },
+        {
+          "text": "I do not think it is the answer?"
+        },
+        {
+          "text": "Bad response"
+        },
+        {
+          "text": "I disagree"
+        },
+        {
+          "text": "I don't need that"
+        }
+      ],
+      "description": "Indicate the bot's response does not address a question."
+    },
+    {
+      "intent": "software",
+      "examples": [
+        {
+          "text": "online applications of TCS"
+        }
+      ],
+      "description": "applying for software jobs"
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You're really irritating"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "Can you tell me what services you are able to help me with?"
+        },
+        {
+          "text": "Can you please give me a list of the types of things you can help me with?"
+        },
+        {
+          "text": "I do not know what to ask"
+        },
+        {
+          "text": "How do I use you?"
+        },
+        {
+          "text": "How can you help me?"
+        },
+        {
+          "text": "How can you solve my problems?"
+        },
+        {
+          "text": "I'd like to know what type of questions you can answer for me."
+        },
+        {
+          "text": "Is there anything you can help me with?"
+        },
+        {
+          "text": "Tell me about what kind of things you do?"
+        },
+        {
+          "text": "Tell me something"
+        },
+        {
+          "text": "What are my options that you can help with?"
+        },
+        {
+          "text": "What are my options?"
+        },
+        {
+          "text": "What are you able to deal with?"
+        },
+        {
+          "text": "What are you able to understand?"
+        },
+        {
+          "text": "What are you capable of?"
+        },
+        {
+          "text": "What are you good at?"
+        },
+        {
+          "text": "What are you used for?"
+        },
+        {
+          "text": "What are your skills?"
+        },
+        {
+          "text": "What can I ask you to do?"
+        },
+        {
+          "text": "What do you do?"
+        },
+        {
+          "text": "What do you handle?"
+        },
+        {
+          "text": "What else can you help me with?"
+        },
+        {
+          "text": "What features are in here?"
+        },
+        {
+          "text": "What is this 4?"
+        },
+        {
+          "text": "What kinds of things can you do?"
+        },
+        {
+          "text": "Where can I find the frequently asked questions?"
+        },
+        {
+          "text": "How can I use you?"
+        },
+        {
+          "text": "Hi, what do you do?"
+        },
+        {
+          "text": "Help now"
+        },
+        {
+          "text": "Do you have a list of things I can talk to you about?"
+        }
+      ],
+      "description": "Request capabilities of the bot."
+    },
+    {
+      "intent": "results",
+      "examples": [
+        {
+          "text": "list out the websites to download the results of all jntu universities?"
+        }
+      ],
+      "description": "semester results of jntu"
+    },
+    {
+      "intent": "Bot_Control_Unsure",
+      "examples": [
+        {
+          "text": "I don t know what you need"
+        },
+        {
+          "text": "I have no idea, actually"
+        },
+        {
+          "text": "I have no idea what you are looking for"
+        },
+        {
+          "text": "I haven't got a clue"
+        },
+        {
+          "text": "I m not certain I get what you re saying"
+        },
+        {
+          "text": "I m not sure what will make you happy"
+        },
+        {
+          "text": "I m not yet convinced"
+        },
+        {
+          "text": "No clue"
+        },
+        {
+          "text": "No idea"
+        },
+        {
+          "text": "To be honest, I m really not sure"
+        },
+        {
+          "text": "You got me"
+        },
+        {
+          "text": "I don t know what you want"
+        }
+      ],
+      "description": "Indicate no definite answer to a question."
+    },
+    {
+      "intent": "onlineapplication",
+      "examples": [
+        {
+          "text": "notification of various government jobs in INDIA"
+        }
+      ],
+      "description": "applying for various jobs"
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Am I talking to Watson?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        },
+        {
+          "text": "Am I chatting with a human?"
+        }
+      ],
+      "description": "Ask if speaking to a human or a bot."
+    },
+    {
+      "intent": "General_Security_Assurance",
+      "examples": [
+        {
+          "text": "Are you safe on hackers?"
+        },
+        {
+          "text": "Will my conversation remain secured?"
+        },
+        {
+          "text": "Why would I trust this chat?"
+        },
+        {
+          "text": "What safety measures are used to ensure that chat is secure?"
+        },
+        {
+          "text": "What makes this chat trustworthy?"
+        },
+        {
+          "text": "What guards do you have in place to protect your customer's data?"
+        },
+        {
+          "text": "Secure conversation?"
+        },
+        {
+          "text": "Protection hacks?"
+        },
+        {
+          "text": "Precautions hackers?"
+        },
+        {
+          "text": "Is this conversation secure?"
+        },
+        {
+          "text": "Is this an official chat?"
+        },
+        {
+          "text": "Is this a trusted chat site?"
+        },
+        {
+          "text": "Is there a reason to distrust this chat?"
+        },
+        {
+          "text": "Is my payment information secure?"
+        },
+        {
+          "text": "Is my card info secure?"
+        },
+        {
+          "text": "In what way can I tell if my plastic is safe?"
+        },
+        {
+          "text": "I'd like proof of a secure chat"
+        },
+        {
+          "text": "How safe is my data?"
+        },
+        {
+          "text": "How is my credit card info secured?"
+        },
+        {
+          "text": "How do I know this chat is not a scam?"
+        },
+        {
+          "text": "How do I know if my card info is kept safe?"
+        },
+        {
+          "text": "Do you have protection against hacks?"
+        },
+        {
+          "text": "Customer info secured?"
+        },
+        {
+          "text": "Conversation secure?"
+        },
+        {
+          "text": "Can I be sure that my stored card details are held securely?"
+        },
+        {
+          "text": "Are you safe?"
+        }
+      ],
+      "description": "Express concerns about the security of the bot."
+    }
+  ],
+  "entities": [
+    {
+      "entity": "onlineeducation",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "online education",
+          "synonyms": [
+            "e-training",
+            "studying online",
+            "online training",
+            "learning online",
+            "online courses"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-time",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-number",
+      "values": [],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "journals",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "here is one of the website SCIHUB to download research papers"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#researchpapers",
+      "dialog_node": "node_5_1589905890343",
+      "previous_sibling": "node_9_1589905479836"
+    },
+    {
+      "type": "standard",
+      "title": "software",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "go to TCS careers -> click on apply -> fill the application -> submit application"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#software",
+      "dialog_node": "node_7_1589893028530",
+      "previous_sibling": "node_1_1589892121103"
+    },
+    {
+      "type": "standard",
+      "title": "higher education",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "go to respective IIT college website  ->go to academics -> PHD -> click on apply -> fill the application ->  fill the details ->submit the application form"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#highereducation",
+      "dialog_node": "node_1_1589891876029",
+      "previous_sibling": "node_10_1589889953625"
+    },
+    {
+      "type": "standard",
+      "title": "welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "U R welcome"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Positive_Feedback",
+      "dialog_node": "node_7_1589906441370",
+      "previous_sibling": "node_10_1589906319915"
+    },
+    {
+      "type": "standard",
+      "title": "results",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "jntufastupdates.com is one of the website to know all semester results of JNTU"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#results",
+      "dialog_node": "node_10_1589906319915",
+      "previous_sibling": "node_5_1589905890343"
+    },
+    {
+      "type": "standard",
+      "title": "downloads",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "go to fresher.com to download previous year question papers on RRB"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#download",
+      "dialog_node": "node_1_1589892121103",
+      "previous_sibling": "node_1_1589891876029"
+    },
+    {
+      "type": "standard",
+      "title": "abroad",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "go to siksha.com to get information regarding higher studies in abroad"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#abroad",
+      "dialog_node": "node_3_1589904691493",
+      "previous_sibling": "node_7_1589893028530"
+    },
+    {
+      "type": "standard",
+      "title": "academics",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "here are some of the best books on electrical engineering                       1) Electrical Machines by JB Guptha                                                         2)Electrical Machines by PS Bimbra                                                        3) Electrical Machines by RK Rajput"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#academics",
+      "dialog_node": "node_9_1589905479836",
+      "previous_sibling": "node_3_1589904691493"
+    },
+    {
+      "type": "standard",
+      "title": "About Applications",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "go to fresherlive.com to know recent notifications of government jobs "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#onlineapplication",
+      "dialog_node": "node_10_1589889953625",
+      "previous_sibling": "node_4_1589889754343"
+    },
+    {
+      "type": "standard",
+      "title": "handle greetings",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hey ,how can i help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Greetings",
+      "dialog_node": "node_4_1589889754343"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "education",
+  "language": "en",
+  "description": "educating students through online"
+}
